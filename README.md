@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alafSantos
+- 👀 I’m interested in engineering and solutions development.
+- 🌱 I’m currently learning a lot about embedded systems, mobile networks and IoT.
+- 📫 How to reach me on LinkedIn: <https://www.linkedin.com/in/alafsantos>.
