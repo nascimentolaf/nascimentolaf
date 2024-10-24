@@ -4,7 +4,7 @@
 
 ## About Me
 I'm passionate about engineering and solutions development with a solid background in electrical engineering and computer sciences. 
-Currently, I am diving deep into embedded systems, and information processing.
+In my research, I am diving deep into critical systems and real-time scheduling algorithms for mobile networks.
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
