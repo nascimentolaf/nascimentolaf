@@ -32,13 +32,13 @@ My core research interests include:
 - Cyber-Physical Systems (CPS)
 
 ## 📫 How to reach me
-- Email: [alaf.dns.me@gmail.com](mailto:alaf.dns.me@gmail.com)
+- Email: [alaf.nascimento@ip-paris.fr](alaf.nascimento@ip-paris.fr)
 
-🧐 For more information, see my page at [https://dnsalaf.github.io/](https://dnsalaf.github.io/)
+🧐 For more information, see my page at [https://nascimentolaf.github.io/](https://dnsalaf.github.io/)
 
 ## 📈 GitHub Stats
-![DNSalaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=DNSalaf&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DNSalaf&layout=compact)
+![DNSalaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=nascimentolaf&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentolaf&layout=compact)
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dnsalaf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/nascimentolaf)
